@@ -46,9 +46,9 @@ youtube : [https://youtu.be/gRd1Ag4C7lU](https://youtu.be/gRd1Ag4C7lU)
   3. Compile project with Xcode
 
 
-**Install latest openCV pod for this project. alspo you need to add header 
-#include "opencv2/core/core_c.h"  in PlaneDetector.mm file.
-**
+## Install latest openCV pod for this project. also you need to add header 
+## #include "opencv2/core/core_c.h"  in PlaneDetector.mm file.
+
 
 ## Release History
 
