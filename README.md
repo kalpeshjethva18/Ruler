@@ -47,6 +47,7 @@ youtube : [https://youtu.be/gRd1Ag4C7lU](https://youtu.be/gRd1Ag4C7lU)
 
 
 ## Install latest openCV pod for this project. also you need to add header 
+## pod 'OpenCV'
 ## #include "opencv2/core/core_c.h"  in PlaneDetector.mm file.
 
 
